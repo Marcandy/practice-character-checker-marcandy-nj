@@ -1,0 +1,8 @@
+{
+  "name": "practice-character-checker",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
